@@ -1,0 +1,87 @@
+body{
+    background-color: #24353f;
+    
+}
+.item{
+    background-color:#24353f ;
+     box-shadow: -5px 2px 54px -9px rgba(0, 0, 0, 1);
+}
+.top-text{
+    color: #17a2b8;
+}
+#mail{
+    background-color: #24353f;
+  
+}
+#name{
+    background-color: #24353f;
+}
+#pass{
+    background-color: #24353f;
+}
+
+#name::placeholder{
+    color: white;
+}
+#mail::placeholder{
+
+    color: white;
+}
+
+#pass::placeholder{
+    color: white;
+}
+#mail2{
+    background-color: #24353f;
+  
+}
+#name{
+    background-color: #24353f;
+}
+#pass2{
+    background-color: #24353f;
+}
+
+#name::placeholder{
+    color: white;
+}
+#mail2::placeholder{
+
+    color: white;
+}
+
+#pass2::placeholder{
+    color: white;
+}
+.tex{
+    font-size: 40px;
+    width: 500;
+}
+.forget{
+    font-size: 16px;
+    font-weight: 400;
+}
+.forget a{
+    font-size: 16px;
+    font-weight: 400;
+}
+.texs{
+    font-size: 20px;
+    font-weight: 400;
+
+}
+
+.w-user{
+    background-color:#24353f ;
+    color:#17a2b8 ;
+    box-shadow: -5px 2px 54px -9px rgba(0, 0, 0, 1);
+    text-align: center;
+    width: 50%;
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 200px;
+  height: 200px;
+}
