@@ -27,3 +27,5 @@ HTML: Structure of the web pages.
 CSS: Basic styling for a clean and modern interface.
 Bootstrap: Provides responsive and consistent UI components.
 JavaScript: Handles core functionality such as data validation, storage, and navigation.
+#view website
+https://habashi111.github.io/signup/index.html
